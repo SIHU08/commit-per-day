@@ -1,4 +1,4 @@
-# Commit per Days
+# Commit per Day
 
 # 2022
   ## 01
